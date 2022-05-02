@@ -4,7 +4,7 @@ Hi 👋 My name is Hải Vx
 Javascript developer
 --------------------
 
-I spend a lot of time working in FrontEnd. But I also feel good with blockchain technology. I'm learning and building a website for NFT market place(solidity, smart contract, meta mask,...).
+I spend a lot of time working in FrontEnd. But I also feel good with blockchain technology.
 
 * 🌍  I'm based in Hanoi
 * 🖥️  See my portfolio at [http://xuanhai.dev](http://xuanhai.dev)
