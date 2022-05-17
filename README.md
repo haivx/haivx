@@ -10,7 +10,7 @@ I spend a lot of time working in FrontEnd. But I also feel good with blockchain 
 * 🖥️  See my portfolio at [http://haivx.github.io](http://haivx.github.io)
 * 🖥️  See my blog at [https://xuanhai.dev](https://xuanhai.dev)
 * ✉️  You can contact me at [haivx0206@gmail.com](mailto:haivx0206@gmail.com)
-* 🧠  I'm learning Node JS, Web3 and Rust
+* 🧠  I'm learning Node JS, Web3, Golang and a little bit Rust.
 
 ### Skills
 
