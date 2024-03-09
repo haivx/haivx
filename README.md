@@ -8,9 +8,8 @@ I spend a lot of time working in FrontEnd.
 
 * 🌍  I'm based in Hanoi
 * 🖥️  See my portfolio at [http://haivx.github.io](http://haivx.github.io)
-* 🖥️  See my blog at [https://xuanhai.dev](https://xuanhai.dev)
+* 🖥️  See my blog at [https://xuanhai.dev](https://xuanhai.info)
 * ✉️  You can contact me at [haivx0206@gmail.com](mailto:haivx0206@gmail.com)
-* 🧠  My side project is [https://xuanhai.beauty](https://xuanhai.beauty)
 
 ### Skills
 
