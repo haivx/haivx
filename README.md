@@ -4,7 +4,7 @@ Hi 👋 My name is Hải Vx
 Javascript developer
 --------------------
 
-I spend a lot of time working in FrontEnd.
+I dedicate most of my time to FrontEnd Development.
 
 * 🌍  I'm based in Hanoi
 * 🖥️  See my portfolio at [http://haivx.github.io](http://haivx.github.io)
