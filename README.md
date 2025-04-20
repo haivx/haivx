@@ -8,6 +8,7 @@ I dedicate most of my time to FrontEnd Development.
 
 * 🌍  I'm based in Hanoi
 * 🖥️  See my portfolio at [http://haivx.github.io](http://haivx.github.io)
+* 📝  Some stuff at [[http://haivx.github.io](https://almost-blogged.vercel.app/)]([http://haivx.github.io](https://almost-blogged.vercel.app/))
 * ✉️  You can contact me at [haivx0206@gmail.com](mailto:haivx0206@gmail.com)
 
 ### Skills
