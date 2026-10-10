@@ -5,7 +5,7 @@ Javascript developer
 --------------------
 
 * 🌍  I'm based in Hanoi
-* 🖥️  See my portfolio at [Linkedin][(http://haivx.github.io)](https://www.linkedin.com/in/hai-vo-b265ab134/)
+* 🖥️  See my portfolio at [Linkedin](https://www.linkedin.com/in/hai-vo-b265ab134/)
 * 📝  Some stuff at [https://almost-blogged.vercel.app](https://almost-blogged.vercel.app/)
 * ✉️  You can contact me at [haivx0206@gmail.com](mailto:haivx0206@gmail.com)
 
